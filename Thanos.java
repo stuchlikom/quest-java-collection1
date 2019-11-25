@@ -40,7 +40,6 @@ public class Thanos {
         }
         better ---->
         */
-        
         heroes.subList((heroes.size()) / 2, heroes.size()).clear();
 
         // TODO 6 : Loop throught the list and display the name of the remaining heroes
